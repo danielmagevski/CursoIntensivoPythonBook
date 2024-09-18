@@ -1,7 +1,7 @@
 """
-2.4 – Letras maiúsculas e minúsculas em nomes: Armazene o nome de uma pessoa em uma variável e 
-então apresente o nome dessa pessoa em letras minúsculas,em letras maiúsculas e somente
-com a primeira letra maiúscula.
+2.4 - Maiusculas e minusculas: Use uma variavel para representar o nome de uma
+pessoa e, em seguida, exiba o nome dessa pessoa em letras minusculas, maiusculas
+e as primeiras letras maiusculas.
 """
 name = "Eric"
 print(name.lower())

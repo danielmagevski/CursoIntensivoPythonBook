@@ -1,7 +1,5 @@
-
 """
-2.1 - Mensagem simples: Armazene uma mensagem em uma variável e, em seguida,
-exiba essa mensagem.
+2.1 - Simple Message: Atribua uma mensagem a uma variável e exiba essa mensagem.
 """
 msg = "Hello World"
 

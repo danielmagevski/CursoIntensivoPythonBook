@@ -1,7 +1,6 @@
 """
-2.2- Mensagens simples: Armazene uma mensagem em uma variável e, em seguida,
-exiba essa mensagem. 
-Então altere o valor de sua variável para uma nova mensagem e mostre essa nova
+2.2- Simple Messages: Atribua uma mensagem a uma variável e exiba essa mensagem.
+Em seguida, altere o valor de sua variável para uma nova mensagem e mostre a nova
 mensagem.
 """
 
