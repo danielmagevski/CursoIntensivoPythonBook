@@ -13,7 +13,7 @@ cidades = {
         'pais': 'brasil',
         'populacao': 12_252_023,
         'fato': 'Maior cidade do Brasil'
-    },s
+    },
     'new york': {
         'pais': 'estados unidos',
         'populacao': 8_336_817,
